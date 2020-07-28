@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m looking for help with open source.
 - 💬 Ask me about Web development and Astrophysics.
-- 📫 How to reach me: [LinkendIn](https://www.linkedin.com/in/theyatinjain/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/theyatinjain/)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Crazy astrophile doing web development while listening songs.
