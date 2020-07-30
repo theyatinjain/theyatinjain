@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-> Pardon my English
-
 - 🔭 I’m currently working on Confindential.
 - 🌱 I’m currently learning on how to take over web development.
 - 👯 I’m looking to collaborate on web development projects.
