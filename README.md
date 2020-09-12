@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Confindential.
+- 🔭 I’m currently working on Confidential.
 - 🌱 I’m currently learning on how to take over web development.
 - 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m looking for help with open source.
