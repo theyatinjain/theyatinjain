@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with open source.
 - 💬 Ask me about Web development and Astrophysics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/theyatinjain/)
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: Crazy astrophile doing web development while listening songs.
